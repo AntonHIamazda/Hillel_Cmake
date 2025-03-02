@@ -1,0 +1,37 @@
+# Вихідні файли збірки
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+*.vcxproj*
+*.vcxproj.user
+*.sln
+*.pdb
+*.obj
+*.lib
+*.dll
+*.exe
+*.exp
+*.ilk
+*.ipch
+*.idb
+*.ncb
+*.aps
+*.suo
+*.sdf
+*.tlog
+*.log
+
+# Файли IDE (Visual Studio, CodeBlocks, CLion)
+*.DS_Store
+*.idea/
+*.vs/
+*.vscode/
+
+# Логи та тимчасові файли
+*.tmp
+*.log
+*.bak
+
+# Інші системні файли Windows
+Thumbs.db
+desktop.ini
