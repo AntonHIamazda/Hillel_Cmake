@@ -2,6 +2,7 @@
 #include<iostream>
 #include"lib.h"
 
+//Return an array, where the first element is the count of positives numbers and the second element is sum of negative numbers.
 std::vector<int> countPositivesSumNegatives(const std::vector<int> input)
 {
 	std::vector<int> result = { 0 , 0 };
